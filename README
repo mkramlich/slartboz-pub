@@ -8,7 +8,9 @@ For fans of Fallout/Wasteland, Idiocracy, The Hitchhiker's Guide to the Galaxy (
 
 And retro 70s/80s-style computer games when they were at their very best.
 
-A long time ago (around 2008) I made my first commerical Rogue-like, Dead By Zombie. This is my return to that medium and art form. With a massively upgraded engine (and still 100% homegrown), rewritten from scratch to enable me to deliver the feature points and technical qualities I envision for Slartboz. In other words, Slartboz is the de facto spiritual successor to Dead By Zombie. With a very different setting and premise. And a very different engine. Dead By Zombie was strictly turn-based: you-go, they-go, you-go. Slartboz uses a "real time" engine. Time is always flowing and the world is always advancing. Though you can pause it when you need to catch your breath or do planning. Or take breaks. Breaks? Slacker!
+A long time ago (around 2008) I made my first commerical Rogue-like, Dead By Zombie. This is my return to that medium and art form. With a massively upgraded engine (and still 100% homegrown), rewritten from scratch to enable me to deliver the feature points and technical qualities I envision for Slartboz. In other words, Slartboz is the de facto spiritual successor to Dead By Zombie. With a very different setting and premise. And a very different engine.
+
+Dead By Zombie was strictly turn-based: you-go, they-go, you-go. Slartboz uses a "real time" engine. Time is always flowing and the world is always advancing. Though you can pause it when you need to catch your breath or do planning. Or take breaks. Breaks? Slacker!
 
 This repo is meant only for public-facing content, like promotional material, design note samples or screenshots.
 
@@ -25,7 +27,7 @@ This game project's presences online:
         https://toot.io/@synlogic/
 
     YouTube
-        https://wwww.youtube.com/@Groglogic/
+        https://www.youtube.com/@Groglogic/
 
     GitHub (this repo)
         https://github.com/mkramlich/slartboz-pub/
