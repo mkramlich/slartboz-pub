@@ -6,7 +6,7 @@ A sci-fi, post-apocalyptic, dystopic, dark irreverent comedy, real-time Rogue-li
 
 For fans of Fallout & Wasteland. And the film Idiocracy, the show Stranger Things, the book "trilogy" Hitchhiker's Guide to the Galaxy, the game X-COM, and of course both NetHack *and* Dwarf Fortress. Because reasons. Oh, heck, let us toss in some Lemonade Stand, some Illuminati, a little Taipan and The Oregon Trail for good measure. Sprinkle in some of Sid Meier's Pirates. A flashback to Ultimate IV: Quest of the Avatar. And a hint of Roadwar 2000? A few pretty clear homages to 1980's arcade games. And a super loving homage & act of historical fantasmagoria in the form of a Slartboz-ification of the OG 80's Cast-- NO, IT IS TOO MUCH! YES, IT IS FAR TOO MUCH, MR. KINCAID. Instead, you'll have to uncover some of these things ALL on your own. Through play, directly. There are soooo many easter eggs and unpromoted mini-games. (In our design anyway. Like, on paper. Stored in a vault somewhere. *cough*.) Therefore the old words of advice still apply. To wit... Keep your towel handy. Lasers are your fren. "And my proton axe!" Give in to your senses, Luke. TRUST NOONE. Let alone The Computer. Arky. Especially not him.
 
-Slartboz is also, by intent and design, a return to the kinds of 70s/80s-style computer games when their audio-visual form and UX features were considered the best of their own time. Except.. now recreated and reimagined using modern technology and tools at a programmer's fingertips in 2023. (Er, except UnityK. Anything but that. *cough*.) Sooooo much memory and disk available, for example. Sooooo many otherwise idle/wasted CPU cycles! Well, we'll take care of THAT awkward little problem, folks. "Now, get off my lawn!"
+Slartboz is also, by intent and design, a return to the kinds of 70s/80s-style computer games when their audio-visual form and UX features were considered the best of their own time. Except... now recreated and reimagined using the kinds of modern technology and tools at a programmer's fingertips in 2023. (Er, except Unity. Anything but that. *cough*.) Sooooo much memory and disk available, for example. Sooooo many otherwise idle/wasted CPU cycles! Well, we'll take care of THAT awkward little problem, folks. "Now, get off my lawn!"
 
 A long time ago (around 2008) I made my first commerical Rogue-like, Dead By Zombie. This is my return to that medium and art form. With a massively upgraded engine (and still 100% homegrown), rewritten from scratch to enable me to deliver the feature points and technical qualities I envision for Slartboz. In other words, Slartboz is the de facto spiritual successor to Dead By Zombie. With a very different setting and premise. And a very different engine.
 
@@ -79,26 +79,26 @@ PLOTS, QUESTS, CHALLENGES
 
 TODO write brief descs of about 6 of these
 
-Find The Tank
-A Gorm Gone By
-What's Eating Pell?
-The Hottest Shoes
-Slurm Plant Ouroboros & Operations, Inc.
-Glerms Are Made Of What?!
-The Madness of Crowds
-The Gurls From Brazil
-The Candy Man Dan
-Dork Fortress
-The OOBMSDP
-The Manchurian Lazer Lizard Candidate
-The Pit of Despair
-The Strangest Things
-All Hail The De-Ity
-Last Ditch Defense / The Battle of West Pell
-X: The Planet Formerly Known As Mars
-The Abominable Dr. Hexenhammer
-The Root of Happiness
-Once And Future King, Again
+* Find The Tank
+* A Gorm Gone By
+* What's Eating Pell?
+* The Hottest Shoes
+* Slurm Plant Ouroboros & Operations, Inc.
+* Glerms Are Made Of What?!
+* The Madness of Crowds
+* The Gurls From Brazil
+* The Candy Man Dan
+* Dork Fortress
+* The OOBMSDP
+* The Manchurian Lazer Lizard Candidate
+* The Pit of Despair
+* The Strangest Things
+* All Hail The De-Ity
+* Last Ditch Defense / The Battle of West Pell
+* X: The Planet Formerly Known As Mars
+* The Abominable Dr. Hexenhammer
+* The Root of Happiness
+* Once And Future King, Again
 
 . . . . . . . . . .
 
@@ -116,42 +116,40 @@ SCREENSHOTS
 
 ![intro/bg story screen](./screenshots/sb-github-s003-intro.png)
 
-TODO the rest
-
-./screenshots/sb-github-s004-slurmplant.png
-./screenshots/sb-github-s005-slurmplant-inv.png
-./screenshots/sb-github-s006-ccrivwarn.png
-./screenshots/sb-github-s007-zedmassatbridge.png
-./screenshots/sb-github-s008-bridgeblows.png
-./screenshots/sb-github-s009-bridgeblows2.png
-./screenshots/sb-github-s010-zedmassgetsyoudbz.png
-./screenshots/sb-github-s011-maps.png
-./screenshots/sb-github-s012-weot1.png
-./screenshots/sb-github-s013-weot2.png
-./screenshots/sb-github-s014-weot3.png
-./screenshots/sb-github-s015-weot4.png
-./screenshots/sb-github-s016-weot5.png
-./screenshots/sb-github-s017-encyclo1.png
-./screenshots/sb-github-s018-encyclo2.png
-./screenshots/sb-github-s019-encyclo3.png
-./screenshots/sb-github-s020-encyclo4.png
-./screenshots/sb-github-s021-encyclo5.png
-./screenshots/sb-github-s022-mes1.png
-./screenshots/sb-github-s023-mes2.png
-./screenshots/sb-github-s024-encyclo6-plots.png
-./screenshots/sb-github-s025-color-palette.png
-./screenshots/sb-github-s026-dead-by-tank-shell.png
-./screenshots/sb-github-s027-energy-maze.png
-./screenshots/sb-github-s028-commands-help-overlay.png
-./screenshots/sb-github-s029-tank-and-avatar-doing-directed-target-loc-fire.png
-./screenshots/sb-github-s030-devmode-sound-status.png
-./screenshots/sb-github-s031-devmode-event-scripts-status.png
-./screenshots/sb-github-s032-code-details-snapshot-2023sep3.png
-./screenshots/sb-github-s033-utterance-chooser-2023sep5.png
-./screenshots/sb-github-s034-perf-refactor-of-lazer-hit-checks.png
-./screenshots/sb-github-s035-goliath-tank-now-has-ussr-flag-commit.png
-./screenshots/sb-github-s036-my-roguelike-creds-let-me-show-you-them-dbz.png
-./screenshots/sb-github-s037-latency-stats-watch.png
+![](./screenshots/sb-github-s004-slurmplant.png)
+![](./screenshots/sb-github-s005-slurmplant-inv.png)
+![](./screenshots/sb-github-s006-ccrivwarn.png)
+![](./screenshots/sb-github-s007-zedmassatbridge.png)
+![](./screenshots/sb-github-s008-bridgeblows.png)
+![](./screenshots/sb-github-s009-bridgeblows2.png)
+![](./screenshots/sb-github-s010-zedmassgetsyoudbz.png)
+![](./screenshots/sb-github-s011-maps.png)
+![](./screenshots/sb-github-s012-weot1.png)
+![](./screenshots/sb-github-s013-weot2.png)
+![](./screenshots/sb-github-s014-weot3.png)
+![](./screenshots/sb-github-s015-weot4.png)
+![](./screenshots/sb-github-s016-weot5.png)
+![](./screenshots/sb-github-s017-encyclo1.png)
+![](./screenshots/sb-github-s018-encyclo2.png)
+![](./screenshots/sb-github-s019-encyclo3.png)
+![](./screenshots/sb-github-s020-encyclo4.png)
+![](./screenshots/sb-github-s021-encyclo5.png)
+![](./screenshots/sb-github-s022-mes1.png)
+![](./screenshots/sb-github-s023-mes2.png)
+![](./screenshots/sb-github-s024-encyclo6-plots.png)
+![](./screenshots/sb-github-s025-color-palette.png)
+![](./screenshots/sb-github-s026-dead-by-tank-shell.png)
+![](./screenshots/sb-github-s027-energy-maze.png)
+![](./screenshots/sb-github-s028-commands-help-overlay.png)
+![](./screenshots/sb-github-s029-tank-and-avatar-doing-directed-target-loc-fire.png)
+![](./screenshots/sb-github-s030-devmode-sound-status.png)
+![](./screenshots/sb-github-s031-devmode-event-scripts-status.png)
+![](./screenshots/sb-github-s032-code-details-snapshot-2023sep3.png)
+![](./screenshots/sb-github-s033-utterance-chooser-2023sep5.png)
+![](./screenshots/sb-github-s034-perf-refactor-of-lazer-hit-checks.png)
+![](./screenshots/sb-github-s035-goliath-tank-now-has-ussr-flag-commit.png)
+![](./screenshots/sb-github-s036-my-roguelike-creds-let-me-show-you-them-dbz.png)
+![](./screenshots/sb-github-s037-latency-stats-watch.png)
 
 . . . . . . . . . .
 
@@ -183,15 +181,15 @@ Project Links
 
 This game project's presences online:
 
-    [Itch.io](https://SynystronGames.itch.io/Slartboz/)
+* ![Itch.io](https://SynystronGames.itch.io/Slartboz/)
 
-    [Mastodon](https://toot.io/@synlogic/)
+* [Mastodon](https://toot.io/@synlogic/)
 
-    [YouTube](https://www.youtube.com/@Groglogic/)
+* [YouTube](https://www.youtube.com/@Groglogic/)
 
-    [GitHub (this repo)](https://github.com/mkramlich/slartboz-pub/)
+* [GitHub (this repo)](https://github.com/mkramlich/slartboz-pub/)
 
-    [Tips & Donations (via CashApp)](https://cash.app/$mk2022akmar/)
+* [Tips & Donations (via CashApp)](https://cash.app/$mk2022akmar/)
 
-    [Support Memberships ($1/mo)](https://patreon.com/SynystronGames/)
+* [Support Memberships ($1/mo)](https://patreon.com/SynystronGames/)
 
