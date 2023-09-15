@@ -177,11 +177,15 @@ Tanks Shooting on The Proving Grounds
 
 . . . . . . . . . .
 
+Open Source Sharing
+
+[latlearn: latency instrum & reporting lib, in Golang](https://github.com/mkramlich/latlearn)
+
 Project Links
 
 This game project's presences online:
 
-* ![Itch.io](https://SynystronGames.itch.io/Slartboz/)
+* [Itch.io](https://SynystronGames.itch.io/Slartboz/)
 
 * [Mastodon](https://toot.io/@synlogic/)
 
