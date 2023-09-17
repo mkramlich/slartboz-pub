@@ -1,10 +1,10 @@
-README
+README (as of 2023 Sep 17)
 
 Slartboz: Fazzmagik Tales in The Sleen Groove
 
 A sci-fi, post-apocalyptic, dystopic, dark irreverent comedy, real-time Rogue-like computer adventure game. Set in the far far (and/or very near) future. A very possible one -- however horrible, hilarious, logical or insane -- and frankly perhaps a mix of each.
 
-For fans of Fallout & Wasteland. And the film Idiocracy, the show Stranger Things, the book "trilogy" Hitchhiker's Guide to the Galaxy, the game X-COM, and of course both NetHack *and* Dwarf Fortress. Because reasons. Oh, heck, let us toss in some Lemonade Stand, some Illuminati, a little Taipan and The Oregon Trail for good measure. Sprinkle in some of Sid Meier's Pirates. A flashback to Ultimate IV: Quest of the Avatar. And a hint of Roadwar 2000? A few pretty clear homages to 1980's arcade games. And a super loving homage & act of historical fantasmagoria in the form of a Slartboz-ification of the OG 80's Cast-- NO, IT IS TOO MUCH! YES, IT IS FAR TOO MUCH, MR. KINCAID. Instead, you'll have to uncover some of these things ALL on your own. Through play, directly. There are soooo many easter eggs and unpromoted mini-games. (In our design anyway. Like, on paper. Stored in a vault somewhere. *cough*.) Therefore the old words of advice still apply. To wit... Keep your towel handy. Lasers are your fren. "And my proton axe!" Give in to your senses, Luke. TRUST NOONE. Let alone The Computer. Arky. Especially not him.
+For fans of Fallout & Wasteland. And the film Idiocracy, the show Stranger Things, the book "trilogy" Hitchhiker's Guide to the Galaxy, the game X-COM, and of course both NetHack *and* Dwarf Fortress. Because reasons. Oh, heck, let us toss in some Lemonade Stand, some Illuminati, a little Taipan and The Oregon Trail for good measure. Sprinkle in some of Sid Meier's Pirates. A flashback to Ultima IV: Quest of the Avatar. And a hint of Roadwar 2000? A few pretty clear homages to 1980's arcade games. And a super loving homage & act of historical fantasmagoria in the form of a Slartboz-ification of the OG 80's Cast-- NO, IT IS TOO MUCH! YES, IT IS FAR TOO MUCH, MR. KINCAID. Instead, you'll have to uncover some of these things ALL on your own. Through play, directly. There are soooo many easter eggs and unpromoted mini-games. (In our design anyway. Like, on paper. Stored in a vault somewhere. *cough*.) Therefore the old words of advice still apply. To wit... Keep your towel handy. Lasers are your fren. "And my proton axe!" Give in to your senses, Luke. TRUST NOONE. Let alone The Computer. Arky. Especially not him.
 
 Slartboz is also, by intent and design, a return to the kinds of 70s/80s-style computer games when their audio-visual form and UX features were considered the best of their own time. Except... now recreated and reimagined using the kinds of modern technology and tools at a programmer's fingertips in 2023. (Er, except Unity. Anything but that. *cough*.) Sooooo much memory and disk available, for example. Sooooo many otherwise idle/wasted CPU cycles! Well, we'll take care of THAT awkward little problem, folks. "Now, get off my lawn!"
 
@@ -150,6 +150,7 @@ SCREENSHOTS
 ![](./screenshots/sb-github-s035-goliath-tank-now-has-ussr-flag-commit.png)
 ![](./screenshots/sb-github-s036-my-roguelike-creds-let-me-show-you-them-dbz.png)
 ![](./screenshots/sb-github-s037-latency-stats-watch.png)
+![](./screenshots/sb-github-s038-github-activity-stats-2023aug.png)
 
 . . . . . . . . . .
 
@@ -175,11 +176,28 @@ The Pell Community Swimming Pool
 Tanks Shooting on The Proving Grounds
     [https://youtu.be/M2WUu9CYco0](https://youtu.be/M2WUu9CYco0)
 
+A Boy and his Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank: A Zombie Herd Slaughter in The Ruins West of Pell, Normerika, 2101 CE
+    [https://youtu.be/MUpTkKiOMic]
+
 . . . . . . . . . .
 
 Open Source Sharing
 
 [latlearn: latency instrum & reporting lib, in Golang](https://github.com/mkramlich/latlearn)
+
+. . . . . . . . . .
+
+RELEASE PLAN
+
+* **September 2023:** 1st playable exe to invite-only playtesters. Mac builds only (at first)
+* **October:** Windows version also avail for playtesters
+* **November:** 1st version of playable exe for the general public. will be **FREE**. tho a subset of full game's features and content. Mac only (at first)
+* **December:** Windows version of above ALSO becomes avail
+* **January:** for-sale only version ALSO made avail to public. full/deluxe game features & content. Mac & Win  
+
+This plan may be revised as we go.
+
+. . . . . . . . . .
 
 Project Links
 
