@@ -79,7 +79,7 @@ PLOTS, QUESTS, CHALLENGES
 
 TODO write brief descs of about 6 of these
 
-* Find The Tank: The LL's have learned of the possibility of the survival of a rare but powerful artifact from The Bad Times, an infamous (and gigantic) Grussian Goliath Mark VI Cybernetic Main Battle Tank. If they can confirm it exists -- that its not a myth -- and locate it, and get it into working orde, it could be a powerful asset in helping them survive, indeed all of Pell. Plus it would be one hell of a sweet ride!
+* Find The Tank: The LL's have learned of the possibility of the survival of a rare but powerful artifact from The Bad Times, an infamous (and gigantic) Grussian Goliath Mark VI Cybernetic Main Battle Tank. If they can confirm it exists -- that its not a myth -- and locate it, and get it into working order, it could be a powerful asset in helping them survive, indeed all of Pell. Plus it would be one hell of a sweet ride!
 * A Gorm Gone By: The former leader of the Lazer Lizards, Gorm Radley -- who is also the new LL leader Riv's older brother -- has gone missing. The frens want to find him, obviously.
 * What's Eating Pell? Someone (or something) is murdering the residents of their village, Pell. There is never a witness. One by one people just seem to... disappear. Sometimes blood is the only thing left behid. Sometimes... worse things.
 * The Hottest Shoes
@@ -112,27 +112,28 @@ GAME & TOY INSPIRATIONS, INFLUENCES AND/OR MOST SIMILAR
 
 These are listed in no particular, meaningful, order:
 
-NetHack
-Dwarf Fortress
-Minecraft
-X-COM
-Taipan
-Ultima 1-4
-SimCity
-The Sims
-Sid Meier's Pirates
-Seven Cities of Gold (by Bunten for EA)
-Castle Wolfenstein (the 80s 8-bit era OG, by Silas Warner for Muse Software)
-Lemonade Stand
-The Oregon Trail
-Roadwar 2000
-Autoduel
-Paranoia (80's TTRPG by Costikyan and WEG)
-Call of Cthulhu (80's TTRPG by Chaosium)
-LEGO
-G.I. Joe: 80s Hasbro action figure toys and comic book series
-Advanced Squad Leader, table-top wargame by Avalon Hill then MMP
-my own old "Dead By Zombie" game from the year 2008
+* NetHack
+* Dwarf Fortress
+* Minecraft
+* X-COM
+* Taipan
+* Ultima 1-4
+* SimCity
+* The Sims
+* Sid Meier's Pirates
+* Seven Cities of Gold (by Bunten for EA)
+* Castle Wolfenstein (the 80s 8-bit era OG, by Silas Warner for Muse Software)
+* Lemonade Stand
+* The Oregon Trail
+* Roadwar 2000
+* Autoduel
+* Rocky's Boots, and (its de facto sequel) A Robot Odyssey
+* Paranoia (80's TTRPG by Costikyan and WEG)
+* Call of Cthulhu (80's TTRPG by Chaosium)
+* LEGO
+* G.I. Joe: 80s Hasbro action figure toys and comic book series
+* Advanced Squad Leader, table-top wargame by Avalon Hill then MMP
+* my own old "Dead By Zombie" game from the year 2008
 
 . . . . . . . . . .
 
