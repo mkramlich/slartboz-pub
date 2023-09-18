@@ -181,6 +181,7 @@ SCREENSHOTS
 ![](./screenshots/sb-github-s037-latency-stats-watch.png)
 ![](./screenshots/sb-github-s038-github-activity-stats-2023aug.png)
 ![](./screenshots/sb-github-s039-dork-fortress-sketch.png")
+![](./screenshots/sb-github-s040-work-on-zlevels-and-dork-fortress.png")
 
 . . . . . . . . . .
 
