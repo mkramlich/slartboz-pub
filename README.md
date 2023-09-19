@@ -120,6 +120,7 @@ These are listed in no particular, meaningful, order:
 * Ultima 1-4
 * SimCity
 * The Sims
+* Little Computer People (from 80s)
 * Sid Meier's Pirates
 * Seven Cities of Gold (by Bunten for EA)
 * Castle Wolfenstein (the 80s 8-bit era OG, by Silas Warner for Muse Software)
@@ -209,6 +210,9 @@ Tanks Shooting on The Proving Grounds
 
 A Boy and his Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank: A Zombie Herd Slaughter in The Ruins West of Pell, Normerika, 2101 CE
     [https://youtu.be/MUpTkKiOMic]
+
+Dork Fortress early prototyping. Z-level cutaway. base's feature list. Arky the Mad AI narrates
+    [https://youtu.be/hbhsJOYYZJ4]
 
 . . . . . . . . . .
 
