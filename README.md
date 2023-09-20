@@ -183,6 +183,12 @@ SCREENSHOTS
 ![](./screenshots/sb-github-s038-github-activity-stats-2023aug.png)
 ![](./screenshots/sb-github-s039-dork-fortress-sketch.png")
 ![](./screenshots/sb-github-s040-work-on-zlevels-and-dork-fortress.png")
+![](./screenshots/sb-github-s041.png")
+![](./screenshots/sb-github-s042.png")
+![](./screenshots/sb-github-s043.png")
+![](./screenshots/sb-github-s044.png")
+![](./screenshots/sb-github-s045.png")
+![](./screenshots/sb-github-s046.png")
 
 . . . . . . . . . .
 
