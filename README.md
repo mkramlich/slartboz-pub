@@ -1,4 +1,4 @@
-README (as of 2023 Sep 17)
+README (LAST UPDATE: 2023 Sep 20)
 
 Slartboz: Fazzmagik Tales in The Sleen Groove
 
@@ -181,14 +181,14 @@ SCREENSHOTS
 ![](./screenshots/sb-github-s036-my-roguelike-creds-let-me-show-you-them-dbz.png)
 ![](./screenshots/sb-github-s037-latency-stats-watch.png)
 ![](./screenshots/sb-github-s038-github-activity-stats-2023aug.png)
-![](./screenshots/sb-github-s039-dork-fortress-sketch.png")
-![](./screenshots/sb-github-s040-work-on-zlevels-and-dork-fortress.png")
-![](./screenshots/sb-github-s041.png")
-![](./screenshots/sb-github-s042.png")
-![](./screenshots/sb-github-s043.png")
-![](./screenshots/sb-github-s044.png")
-![](./screenshots/sb-github-s045.png")
-![](./screenshots/sb-github-s046.png")
+![](./screenshots/sb-github-s039-dork-fortress-sketch.png)
+![](./screenshots/sb-github-s040-work-on-zlevels-and-dork-fortress.png)
+![](./screenshots/sb-github-s041.png)
+![](./screenshots/sb-github-s042.png)
+![](./screenshots/sb-github-s043.png)
+![](./screenshots/sb-github-s044.png)
+![](./screenshots/sb-github-s045.png)
+![](./screenshots/sb-github-s046.png)
 
 . . . . . . . . . .
 
