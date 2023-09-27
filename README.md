@@ -1,4 +1,4 @@
-README (LAST UPDATE: 2023 Sep 20)
+README
 
 Slartboz: Fazzmagik Tales in The Sleen Groove
 
@@ -101,13 +101,23 @@ TODO write brief descs of about 6 of these
 * The Root of Happiness
 * Once And Future King, Again
 
-. . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 GAME ENGINE FEATURES & PLAY MECHANICS
 
-TODO write me
+* like **NetHack**... but with a **real-time engine**. and with **sounds** and **music**
 
-. . . . . . . . . .
+* like **Dwarf Fortress**... but with a **future**, sci-fi, **post-apoc** setting
+
+* an **adventure** game with **RPG** aspects... but also **military-style** squad-level **combat** and operations-scale **battles**
+
+* has dramatic **plots** and **stories** galore... but also provides an **open sandbox** for free-form play. One filled with, in essence, a wide assortment of **toy soldiers** and **action figures** and all the cool **bases** and **vehicles** and **weapons** and high-tech, whizbang **gadgets** any kid would want. (Indeed, one of the designer's frequent self-questions he asks, while working on it, is, "What would 10-year old me want to do here? What would he want to be able to do with it? What would he *wish* that he could *make happen* in this game? What would *amuse* him? Oh, and for now just forget about the morally Right or Wrong, the sane or insane, the appropriate or immature, or whether practical or not -- what would be *frickin FUN?!*" and then I (try to) go make that happen. In the Slartboz code, bringing it to life.)
+
+* a **game**, so meant to be **Fun**. but also has **Lessons** and serious **Educational** topic. about **climate** and **democracy**. about **dangers** to both, and opportunities to do mitigations (big, bold and/or urgent ones), or to innovate or make "upgrades" to our society and laws related to them. (eg. like closing loopholes exploited by foreign (or domestic) enemies, or traitors. Can anyone think of any real-world examples where that might have happened in US history to date? Hmmmm...)
+
+* though the game's world is set in a terrible (and stupid, and unnecessary) **Dystopia** the design goal of the player's experience is to help encourage a path leading us closer towards an ideal, long-term and (much more) sustainable **Utopia**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 GAME & TOY INSPIRATIONS, INFLUENCES AND/OR MOST SIMILAR
 
@@ -196,35 +206,35 @@ SCREENSHOTS
 VIDEOS
 
 Lazers, Monsters, The Oddly Obedient, Power Drunk, Subtle Error, Death Oops & A Few Smol
-    [](https://youtu.be/ZqmDL_y15bc](https://youtu.be/ZqmDL_y15bc)
+    [https://youtu.be/ZqmDL_y15bc](https://youtu.be/ZqmDL_y15bc)
 
 The World Evolving Over Time
     featuring "Arky the Mad AI Mind"
     and the comedy & tragedy of the relentless momentum of time
-    [](https://youtu.be/BADPcTEx_v0](https://youtu.be/BADPcTEx_v0)
+    [https://youtu.be/BADPcTEx_v0](https://youtu.be/BADPcTEx_v0)
 
 A Slideshow of Screenshots
-    [](https://youtu.be/20G-rZzPjeU/](https://youtu.be/20G-rZzPjeU/)
+    [https://youtu.be/20G-rZzPjeU/](https://youtu.be/20G-rZzPjeU/)
 
 The Pell Community Swimming Pool
-    [](https://youtu.be/K1Z7lWZLBXI](https://youtu.be/K1Z7lWZLBXI)
+    [https://youtu.be/K1Z7lWZLBXI](https://youtu.be/K1Z7lWZLBXI)
 
 Tanks Shooting on The Proving Grounds
-    [](https://youtu.be/M2WUu9CYco0](https://youtu.be/M2WUu9CYco0)
+    [https://youtu.be/M2WUu9CYco0](https://youtu.be/M2WUu9CYco0)
 
 A Boy and his Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank: A Zombie Herd Slaughter in The Ruins West of Pell, Normerika, 2101 CE
-    [](https://youtu.be/MUpTkKiOMic)
+    [https://youtu.be/MUpTkKiOMic](https://youtu.be/MUpTkKiOMic)
 
 Dork Fortress early prototyping. Z-level cutaway. base's feature list. Arky the Mad AI narrates
-    [](https://youtu.be/hbhsJOYYZJ4)
+    [https://youtu.be/hbhsJOYYZJ4](https://youtu.be/hbhsJOYYZJ4)
 
 Project Intro, UI Guide, The Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank (Think: Friendly Kaiju) vs A Massive Zombie Herd, and The Dork Fortress, and... Arky the Mad AI (Quite Mad, Really)
 
     part 1 of 2:
-    [](https://youtu.be/mDokKbHyOno)
+    [https://youtu.be/mDokKbHyOno](https://youtu.be/mDokKbHyOno)
 
     part 2 of 2:
-    [](https://youtu.be/KPVIq39HoUM)
+    [https://youtu.be/KPVIq39HoUM](https://youtu.be/KPVIq39HoUM)
 
 . . . . . . . . . .
 
@@ -265,4 +275,6 @@ This game project's presences online:
 * [Support Memberships ($1/mo)](https://patreon.com/SynystronGames/)
 
 * [email](mailto:groglogic+slartboz@gmail.com)
+
+This document's last update: 2023 Sep 26
 
