@@ -96,6 +96,7 @@ TODO write brief descs of about 6 of these
 * All Hail The De-Ity
 * Last Ditch Defense / The Battle of West Pell
 * X: The Planet Formerly Known As Mars
+* The Machine Mechanization Matrix
 * The Abominable Dr. Hexenhammer
 * The Root of Happiness
 * Once And Future King, Again
@@ -195,36 +196,35 @@ SCREENSHOTS
 VIDEOS
 
 Lazers, Monsters, The Oddly Obedient, Power Drunk, Subtle Error, Death Oops & A Few Smol
-    7 minutes, 20 seconds
-    [https://youtu.be/ZqmDL_y15bc](https://youtu.be/ZqmDL_y15bc)
+    [](https://youtu.be/ZqmDL_y15bc](https://youtu.be/ZqmDL_y15bc)
 
 The World Evolving Over Time
     featuring "Arky the Mad AI Mind"
     and the comedy & tragedy of the relentless momentum of time
-    6 minutes, 18 seconds
-    [https://youtu.be/BADPcTEx_v0](https://youtu.be/BADPcTEx_v0)
+    [](https://youtu.be/BADPcTEx_v0](https://youtu.be/BADPcTEx_v0)
 
 A Slideshow of Screenshots
-    49 seconds. no sound
-    [https://youtu.be/20G-rZzPjeU/](https://youtu.be/20G-rZzPjeU/)
+    [](https://youtu.be/20G-rZzPjeU/](https://youtu.be/20G-rZzPjeU/)
 
 The Pell Community Swimming Pool
-    [https://youtu.be/K1Z7lWZLBXI](https://youtu.be/K1Z7lWZLBXI)
+    [](https://youtu.be/K1Z7lWZLBXI](https://youtu.be/K1Z7lWZLBXI)
 
 Tanks Shooting on The Proving Grounds
-    [https://youtu.be/M2WUu9CYco0](https://youtu.be/M2WUu9CYco0)
+    [](https://youtu.be/M2WUu9CYco0](https://youtu.be/M2WUu9CYco0)
 
 A Boy and his Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank: A Zombie Herd Slaughter in The Ruins West of Pell, Normerika, 2101 CE
-    [https://youtu.be/MUpTkKiOMic]
+    [](https://youtu.be/MUpTkKiOMic)
 
 Dork Fortress early prototyping. Z-level cutaway. base's feature list. Arky the Mad AI narrates
-    [https://youtu.be/hbhsJOYYZJ4]
+    [](https://youtu.be/hbhsJOYYZJ4)
 
 Project Intro, UI Guide, The Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank (Think: Friendly Kaiju) vs A Massive Zombie Herd, and The Dork Fortress, and... Arky the Mad AI (Quite Mad, Really)
+
     part 1 of 2:
-    [https://youtu.be/mDokKbHyOno]
+    [](https://youtu.be/mDokKbHyOno)
+
     part 2 of 2:
-    [https://youtu.be/KPVIq39HoUM]
+    [](https://youtu.be/KPVIq39HoUM)
 
 . . . . . . . . . .
 
@@ -263,4 +263,6 @@ This game project's presences online:
 * [Tips & Donations (via CashApp)](https://cash.app/$mk2022akmar/)
 
 * [Support Memberships ($1/mo)](https://patreon.com/SynystronGames/)
+
+* [email](mailto:groglogic+slartboz@gmail.com)
 
