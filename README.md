@@ -43,7 +43,7 @@ Do you agree to embark on the Tank Search Expedition?
 
 CHARACTERS
 
-Abro
+**Abro**
 
 You are Abro. A teen guy living in Normerika. Normerika is the year 2100's future successor to what folks back in the "real" 2020s called the USA. (notice the scare quotes around real?)
 
@@ -55,21 +55,21 @@ Abro has, in his possession and under his own general control, a few assets -- h
 
 Abro wants a tank. A really big tank. Like a huge 4WD off-road vehicle, but with tons of armor and Big Ass Guns as a bonus. Its a no-brainer, really. Especialy if you are 15 like Abro. And no, he does NOT even have a driver's license yet. Why? Because there IS NO driver's licensing authority. Not anymore. There is very little authority left, period, anywhere. Because government itself has collapsed, mostly. ("Mostly," re-emphasizes Newt, the ever-helpful, even while blatantly crossing multiple dimensions of fictional reality like this.) And therefore folks are generally just trying to.. well, to Survive. Each new hellish day, Livin La Vida Loca in the Normerikan wastelands of 2100 CE.
 
-Fern
+**Fern**
 
 Fern is "In Wuv" with Abro. Nobody is quite sure, why -- neither the poor hapless boy, or, herself.
 
 Fern loves shoes. She also has powerful mutant powers she tries to hide. But she would do almost *anything* to get a hot new pair of shoes. She has been tempted to use Her Terrible Powers in order to help her get them. But that would be Wrong (TM), right? Or would it be soooo wrong it was Totally Right (TM)? Honestly, at times, the line blurs.
 
-Bonk
+**Bonk**
 
 Best fren to Abro. Ignored/tolerated by Fern.  One of the Lazer Lizards.
 
-Arky
+**Arky**
 
 An AI mind, a powerful genius and yet also, clearly, crazy. A remote "fren" of Abro who seems to (try to) help out, here and there.
 
-Tank
+**Tank**
 
 A Grussian 'Goliath Mark VI'. A gigantic cybernetic main battle tank, or land destroyer, the ultimate fantasy in armored warfare, and an utter nightmare to its enemies.
 
@@ -77,29 +77,27 @@ A Grussian 'Goliath Mark VI'. A gigantic cybernetic main battle tank, or land de
 
 PLOTS, QUESTS, CHALLENGES
 
-TODO write brief descs of about 6 of these
-
-* Find The Tank: The LL's have learned of the possibility of the survival of a rare but powerful artifact from The Bad Times, an infamous (and gigantic) Grussian Goliath Mark VI Cybernetic Main Battle Tank. If they can confirm it exists -- that its not a myth -- and locate it, and get it into working order, it could be a powerful asset in helping them survive, indeed all of Pell. Plus it would be one hell of a sweet ride!
-* A Gorm Gone By: The former leader of the Lazer Lizards, Gorm Radley -- who is also the new LL leader Riv's older brother -- has gone missing. The frens want to find him, obviously.
-* What's Eating Pell? Someone (or something) is murdering the residents of their village, Pell. There is never a witness. One by one people just seem to... disappear. Sometimes blood is the only thing left behid. Sometimes... worse things.
-* The Hottest Shoes
-* Slurm Plant Ouroboros & Operations, Inc.
-* Glerms Are Made Of What?!
-* The Madness of Crowds
-* The Gurls From Brazil
-* The Candy Man Dan
-* Dork Fortress
-* The OOBMSDP
-* The Manchurian Lazer Lizard Candidate
-* The Pit of Despair
-* The Strangest Things
-* All Hail The De-Ity
-* Last Ditch Defense / The Battle of West Pell
-* X: The Planet Formerly Known As Mars
-* The Machine Mechanization Matrix
-* The Abominable Dr. Hexenhammer
-* The Root of Happiness
-* Once And Future King, Again
+* **Find The Tank** -- The LL's have learned of the possibility of the survival of a rare but powerful artifact from The Bad Times, an infamous (and gigantic) Grussian Goliath Mark VI Cybernetic Main Battle Tank. If they can confirm it exists -- that its not a myth -- and locate it, and get it into working order, it could be a powerful asset in helping them survive, indeed all of Pell. Plus it would be one hell of a sweet ride!
+* **A Gorm Gone By** -- The former leader of the Lazer Lizards, Gorm Radley -- who is also the new LL leader Riv's older brother -- has gone missing. The frens want to find him, obviously.
+* **What's Eating Pell?** -- Someone (or something) is murdering the residents of their village, Pell. There is never a witness. One by one people just seem to... disappear. Sometimes blood is the only thing left behid. Sometimes... worse things.
+* **The Hottest Shoes** -- about Fern's quest to acquire the hottest shoes imaginable, and all the shenanigans that unfold *during* that, if not completely *due* to that
+* **Slurm Plant Ouroboros & Operations, Inc.**
+* **Glerms Are Made Of What?!**
+* **The Madness of Crowds** -- Involving the phenomenon of beliefs, propaganda, politics, lying populists, dangerous adversaries, and the general societal *signal-to-noise* ratio of life in Normerika in the year 2100.
+* **The Gurls From Brazil**
+* **The Candy Man Dan** -- Yes, it involves candy. And rhyming. And alliteration. And other fun language games and word-sound patterns. Also, candy. Sooooooooooo much candy. *Bonk, keep your hands out of the bowl, what have we told you?*
+* **Dork Fortress** -- As is the nature of all Normerikan youth The Lazer Lizards will, in all likihood, eventually outgrow their little clubhouse shack and want something... bigger. Much bigger. And something with much better features. Something... *far* more impressive. And customized totally to their tastes. To their very specific tastes. Even to Bonk's very specific and ultra-geeky tastes -- that sick bastard.
+* **The OOBMSDP** -- Involving what might be the most bureaucratic, inane, pinheads-and=paperwork-driven large bizcorp/gubmint that has ever existed. It is up to Abto single-handedly to stop them. Er, I mean, to avoid them. Evade them? Make fun? Perhaps a wee bit of sabotage along with close frens?
+* **The Manchurian Lazer Lizard Candidate** -- One among the LL's is not exactly who he seems. Rather, an Enemy within, a wolf in sheep's clothing. No, he is *not* a furry and this does not involve cosplay.
+* **The Pit of Despair**
+* **The Strangest Things** -- Some young ladies have certain Powers, ones both Great and Terrible.
+* **All Hail The De-Ity** -- The LL's investigate an awful, but seemingly all-powerful, cult
+* **Last Ditch Defense / The Battle of West Pell** -- A massive herd of zombies approaches the hometown of Abro and his frens. Guess upon whose shoulders it falls to try saving Pell from would otherwise be sure overrun and slaughter?
+* **X: The Planet Formerly Known As Mars** -- A plot which may or may not involve the mythical mega-preneur Elong Mux. Let's just say there's lots of innovation and shitposting, and in about equal parts.
+* **The Machine Mechanization Matrix** -- A race of self-directing, self-replicating machines hate humanity and wishes to destroy it, if not enslave it entirely. In a distracted and divided world it may be up to The Lazer Lizards alone to stop them.
+* **The Abominable Dr. Hexenhammer** -- "Rise, my dear Melody, rise! Rise my dear new wife, born of The Blood, reborn of The Word. No, my young frens who I know are listening, NOT the one from Grease." *(mad cackling!) (lighting strikes~) (more cackling!) (yet more lightning, obvs)*
+* **The Root of Happiness**
+* **Once And Future King, Again**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -122,6 +120,8 @@ GAME ENGINE FEATURES & PLAY MECHANICS
 GAME & TOY INSPIRATIONS, INFLUENCES AND/OR MOST SIMILAR
 
 These are listed in no particular, meaningful, order:
+
+(TODO add links for each?)
 
 * NetHack
 * Dwarf Fortress
@@ -151,12 +151,9 @@ These are listed in no particular, meaningful, order:
 
 SCREENSHOTS
 
-![game's splash screen](./screenshots/sb-github-s001-splash.png)
-
-![time drama screen (part of the intro)](./screenshots/sb-github-s002-timedrama.png)
-
-![intro/bg story screen](./screenshots/sb-github-s003-intro.png)
-
+![](./screenshots/sb-github-s001-splash.png)
+![](./screenshots/sb-github-s002-timedrama.png)
+![](./screenshots/sb-github-s003-intro.png)
 ![](./screenshots/sb-github-s004-slurmplant.png)
 ![](./screenshots/sb-github-s005-slurmplant-inv.png)
 ![](./screenshots/sb-github-s006-ccrivwarn.png)
@@ -206,41 +203,41 @@ SCREENSHOTS
 VIDEOS
 
 Lazers, Monsters, The Oddly Obedient, Power Drunk, Subtle Error, Death Oops & A Few Smol
-    [https://youtu.be/ZqmDL_y15bc](https://youtu.be/ZqmDL_y15bc)
+    https://youtu.be/ZqmDL_y15bc
 
 The World Evolving Over Time
     featuring "Arky the Mad AI Mind"
     and the comedy & tragedy of the relentless momentum of time
-    [https://youtu.be/BADPcTEx_v0](https://youtu.be/BADPcTEx_v0)
+    https://youtu.be/BADPcTEx_v0
 
 A Slideshow of Screenshots
-    [https://youtu.be/20G-rZzPjeU/](https://youtu.be/20G-rZzPjeU/)
+    https://youtu.be/20G-rZzPjeU
 
 The Pell Community Swimming Pool
-    [https://youtu.be/K1Z7lWZLBXI](https://youtu.be/K1Z7lWZLBXI)
+    https://youtu.be/K1Z7lWZLBXI
 
 Tanks Shooting on The Proving Grounds
-    [https://youtu.be/M2WUu9CYco0](https://youtu.be/M2WUu9CYco0)
+    https://youtu.be/M2WUu9CYco0
 
 A Boy and his Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank: A Zombie Herd Slaughter in The Ruins West of Pell, Normerika, 2101 CE
-    [https://youtu.be/MUpTkKiOMic](https://youtu.be/MUpTkKiOMic)
+    https://youtu.be/MUpTkKiOMic
 
 Dork Fortress early prototyping. Z-level cutaway. base's feature list. Arky the Mad AI narrates
-    [https://youtu.be/hbhsJOYYZJ4](https://youtu.be/hbhsJOYYZJ4)
+    https://youtu.be/hbhsJOYYZJ4
 
 Project Intro, UI Guide, The Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank (Think: Friendly Kaiju) vs A Massive Zombie Herd, and The Dork Fortress, and... Arky the Mad AI (Quite Mad, Really)
 
     part 1 of 2:
-    [https://youtu.be/mDokKbHyOno](https://youtu.be/mDokKbHyOno)
+    https://youtu.be/mDokKbHyOno](https://youtu.be/mDokKbHyOno
 
     part 2 of 2:
-    [https://youtu.be/KPVIq39HoUM](https://youtu.be/KPVIq39HoUM)
+    https://youtu.be/KPVIq39HoUM](https://youtu.be/KPVIq39HoUM
 
 . . . . . . . . . .
 
 Open Source Sharing
 
-[latlearn: latency instrum & reporting lib, in Golang](https://github.com/mkramlich/latlearn)
+[latlearn](https://github.com/mkramlich/latlearn): latency instrum & reporting lib, in Golang
 
 . . . . . . . . . .
 
@@ -276,5 +273,5 @@ This game project's presences online:
 
 * [email](mailto:groglogic+slartboz@gmail.com)
 
-This document's last update: 2023 Sep 26
+This document's last update: 2023 Sep 27
 
