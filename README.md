@@ -95,7 +95,7 @@ PLOTS, QUESTS, CHALLENGES
 * **Last Ditch Defense / The Battle of West Pell** -- A massive herd of zombies approaches the hometown of Abro and his frens. Guess upon whose shoulders it falls to try saving Pell from what would surely otherwise lead to an unstoppable stampede overrun and slaughter of the innocent?
 * **X: The Planet Formerly Known As Mars** -- A plot which may or may not involve the mythical mega-preneur Elong Mux. Let's just say there's lots of innovation and shitposting, and in about equal parts.
 * **The Machine Mechanization Matrix** -- A race of self-directing, self-replicating machines hate humanity and wishes to enslave it, if not destroy it and drive it to extinction entirely. In a distracted and divided world it might just be up to The Lazer Lizards, alone, and at the height of their amassed power, to stop them.
-* **The Abominable Dr. Hexenhammer** -- "Rise, my dear Melody, rise! Rise my dear new wife, born of The Blood, reborn of The Word. No, my young frens who I know are listening, NOT the one from Grease." *(mad cackling!) (lighting strikes~) (more cackling!) (yet more lightning, obvs)*
+* **The Abominable Dr. Hexenhammer** -- "Rise, my dear Melody, rise! Rise my dear new wife, born of The Blood, reborn of The Word. No, my young frens who I know are listening, NOT the one from Grease." *(mad cackling!) (lighting strikes!) (more cackling!) (ominous thunder!!) (yet more lightning!!!) (then cackling again, obvs)*
 * **The Root of Happiness**
 * **Once And Future King, Again**
 
