@@ -226,9 +226,8 @@ Dork Fortress early prototyping. Z-level cutaway. base's feature list. Arky the 
     https://youtu.be/hbhsJOYYZJ4
 
 Project Intro, UI Guide, The Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank (Think: Friendly Kaiju) vs A Massive Zombie Herd, and The Dork Fortress, and... Arky the Mad AI (Quite Mad, Really)
-
-    [part 1 of 2](https://youtu.be/mDokKbHyOno)
-    [part 2 of 2](https://youtu.be/KPVIq39HoUM)
+    part 1 of 2: https://youtu.be/mDokKbHyOno
+    part 2 of 2: https://youtu.be/KPVIq39HoUM
 
 . . . . . . . . . .
 
