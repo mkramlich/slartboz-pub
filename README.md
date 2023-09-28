@@ -87,7 +87,7 @@ PLOTS, QUESTS, CHALLENGES
 * **The Gurls From Brazil**
 * **The Candy Man Dan** -- Yes, it involves candy. And rhyming. And alliteration. And other fun language games and word-sound patterns. Also, candy. Sooooooooooo much candy. *Bonk, keep your hands out of the bowl, what have we told you?*
 * **Dork Fortress** -- As is the nature of all Normerikan youth The Lazer Lizards will, in all likelihood, eventually outgrow their little clubhouse shack and want something... bigger. Much bigger. And something with much better features. Something... *far* more impressive. And customized totally to their tastes. To their very specific tastes. Even to Bonk's very specific and ultra-geeky tastes -- that sick bastard.
-* **The OOBMSDP** -- Involving what might be the most bureaucratic, inane, pinheads-and=paperwork-driven large bizcorp/gubmint that has ever existed. It is up to Abto single-handedly to stop them. Er, I mean, to avoid them. Evade them? Make fun? Perhaps a wee bit of sabotage along with close frens?
+* **The OOBMSDP** -- Involving what might be the most bureaucratic, inane, pinheads-and=paperwork-driven large bizcorp/gubmint that has ever existed. It is up to Abro single-handedly to stop them. Er, I mean, to avoid them. Evade them? Make fun? Perhaps a wee bit of sabotage along with close frens?
 * **The Manchurian Lazer Lizard Candidate** -- One among the LL's is not exactly who he seems. Rather, an Enemy within, a wolf in sheep's clothing. No, he is *not* a furry and this does not involve cosplay.
 * **The Pit of Despair**
 * **The Strangest Things** -- Some young ladies have certain Powers, ones both Great and Terrible.
