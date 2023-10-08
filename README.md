@@ -248,9 +248,20 @@ Project Intro, UI Guide, The Gigantic Grussian Goliath Mark VI Cybernetic Main B
 part 1 of 2: https://youtu.be/mDokKbHyOno
 part 2 of 2: https://youtu.be/KPVIq39HoUM
 
+Arky's Room & Brain, His Energy Maze Protection, His Propaganda Lessons, The Powerful Giant Scared of Little Spiders, Awkward Cloning Booth Shenanigans, Deadly Political Feuds
+
+part 1 of 3: https://youtu.be/X6QJnY0I4Eg
+part 2 of 3: https://youtu.be/f2MoMy9Xmyo
+part 3 of 3: https://youtu.be/G_CsFGfVIH4
+    
+Line-of-Sight, Goliath Hatch Security & Goliath Interior with Tank's Brain
+    https://youtu.be/7fNRbNC4RNo
+
 . . . . . . . . . . . . .
 
 # OPEN SOURCE SHARING
+
+I carved out a tiny slice of the Slartboz codebase and shared out to the public, for anyone's use for free. The portion that helps me to do performance optimization upgrades of my private game engine (which itself was homegrown by me to be tailored to the needs of the Slartboz game.) As well as to enable the code to do dynamic adjustment of task execution strategies, on the fly at runtime. Why? In order to help maintain a better/smoother UX than otherwise. I gave this carved-out piece the name "latlearn":
 
 [latlearn](https://github.com/mkramlich/latlearn): latency instrum & reporting lib, in Golang
 
@@ -258,8 +269,7 @@ part 2 of 2: https://youtu.be/KPVIq39HoUM
 
 # RELEASE PLAN
 
-* **September 2023:** 1st playable exe to invite-only playtesters. Mac builds only (at first)
-* **October:** Windows version also avail for playtesters
+* **October 2023:** 1st playable exe to invite-only playtesters. Mac builds only (at first), then a week later, Windows
 * **November:** 1st version of playable exe for the general public. will be **FREE**. tho a subset of full game's features and content. Mac only (at first)
 * **December:** Windows version of above ALSO becomes avail
 * **January:** for-sale only version ALSO made avail to public. full/deluxe game features & content. Mac & Win  
@@ -288,5 +298,5 @@ This game project's presences online:
 
 * [email](mailto:groglogic+slartboz@gmail.com)
 
-This document's last update: 2023 Sep 28
+This document's last update: 2023 Oct 7
 
