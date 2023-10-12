@@ -260,6 +260,10 @@ Line-of-Sight, Goliath Hatch Security & Goliath Interior with Tank's Brain
 Staying Behind
     https://youtu.be/LPh5YWIMYJE
 
+"Pain Am Having!"
+    https://youtu.be/opNE1Oqlm9c
+
+
 . . . . . . . . . . . . .
 
 # OPEN SOURCE SHARING
@@ -301,5 +305,5 @@ This game project's presences online:
 
 * [email](mailto:groglogic+slartboz@gmail.com)
 
-This document's last update: 2023 Oct 8
+This document's last update: 2023 Oct 12
 
