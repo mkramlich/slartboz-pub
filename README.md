@@ -215,6 +215,7 @@ These are listed in no particular, meaningful, order:
 ![](./screenshots/sb-github-s044.png)
 ![](./screenshots/sb-github-s045.png)
 ![](./screenshots/sb-github-s046.png)
+![](./screenshots/sb-github-s047.png)
 
 . . . . . . . . . . . . . . . .
 
@@ -305,5 +306,5 @@ This game project's presences online:
 
 * [email](mailto:groglogic+slartboz@gmail.com)
 
-This document's last update: 2023 Oct 12
+This document's last update: 2023 Oct 14
 
