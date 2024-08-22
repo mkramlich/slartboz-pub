@@ -222,48 +222,51 @@ These are listed in no particular, meaningful, order:
 
 # DEMO VIDEOS & SCREENCASTS
 
-Lazers, Monsters, The Oddly Obedient, Power Drunk, Subtle Error, Death Oops & A Few Smol
+Lazers, Monsters, The Oddly Obedient, Power Drunk, Subtle Error, Death Oops & A Few Smol \
     https://youtu.be/ZqmDL_y15bc
 
-The World Evolving Over Time
-    featuring "Arky the Mad AI Mind"
-    and the comedy & tragedy of the relentless momentum of time
+The World Evolving Over Time \
+    featuring "Arky the Mad AI Mind" \
+    and the comedy & tragedy of the relentless momentum of time \
     https://youtu.be/BADPcTEx_v0
 
-A Slideshow of Screenshots
+A Slideshow of Screenshots \
     https://youtu.be/20G-rZzPjeU
 
-The Pell Community Swimming Pool
+The Pell Community Swimming Pool \
     https://youtu.be/K1Z7lWZLBXI
 
-Tanks Shooting on The Proving Grounds
+Tanks Shooting on The Proving Grounds \
     https://youtu.be/M2WUu9CYco0
 
-A Boy and his Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank: A Zombie Herd Slaughter in The Ruins West of Pell, Normerika, 2101 CE
+A Boy and his Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank: A Zombie Herd Slaughter in The Ruins West of Pell, Normerika, 2101 CE \
     https://youtu.be/MUpTkKiOMic
 
-Dork Fortress early prototyping. Z-level cutaway. base's feature list. Arky the Mad AI narrates
+Dork Fortress early prototyping. Z-level cutaway. base's feature list. Arky the Mad AI narrates \
     https://youtu.be/hbhsJOYYZJ4
 
-Project Intro, UI Guide, The Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank (Think: Friendly Kaiju) vs A Massive Zombie Herd, and The Dork Fortress, and... Arky the Mad AI (Quite Mad, Really)
+Project Intro, UI Guide, The Gigantic Grussian Goliath Mark VI Cybernetic Main Battle Tank (Think: Friendly Kaiju) vs A Massive Zombie Herd, and The Dork Fortress, and... Arky the Mad AI (Quite Mad, Really) \
 
-part 1 of 2: https://youtu.be/mDokKbHyOno
+part 1 of 2: https://youtu.be/mDokKbHyOno \
 part 2 of 2: https://youtu.be/KPVIq39HoUM
 
-Arky's Room & Brain, His Energy Maze Protection, His Propaganda Lessons, The Powerful Giant Scared of Little Spiders, Awkward Cloning Booth Shenanigans, Deadly Political Feuds
+Arky's Room & Brain, His Energy Maze Protection, His Propaganda Lessons, The Powerful Giant Scared of Little Spiders, Awkward Cloning Booth Shenanigans, Deadly Political Feuds \
 
-part 1 of 3: https://youtu.be/X6QJnY0I4Eg
-part 2 of 3: https://youtu.be/f2MoMy9Xmyo
-part 3 of 3: https://youtu.be/G_CsFGfVIH4
+part 1 of 3: https://youtu.be/X6QJnY0I4Eg \
+part 2 of 3: https://youtu.be/f2MoMy9Xmyo \
+part 3 of 3: https://youtu.be/G_CsFGfVIH4 \
     
-Line-of-Sight, Goliath Hatch Security & Goliath Interior with Tank's Brain
+Line-of-Sight, Goliath Hatch Security & Goliath Interior with Tank's Brain \
     https://youtu.be/7fNRbNC4RNo
 
-Staying Behind
+Staying Behind \
     https://youtu.be/LPh5YWIMYJE
 
-"Pain Am Having!"
+"Pain Am Having!" \
     https://youtu.be/opNE1Oqlm9c
+
+Tweaking Slartboz \
+    https://youtu.be/_BCZL3h9Zf4
 
 
 . . . . . . . . . . . . .
