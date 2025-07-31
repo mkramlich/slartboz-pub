@@ -281,10 +281,7 @@ I carved out a tiny slice of the Slartboz codebase and shared out to the public,
 
 # RELEASE PLAN
 
-* **October 2023:** 1st playable exe to invite-only playtesters. Mac builds only (at first), then a week later, Windows
-* **November:** 1st version of playable exe for the general public. will be **FREE**. tho a subset of full game's features and content. Mac only (at first)
-* **December:** Windows version of above ALSO becomes avail
-* **January:** for-sale only version ALSO made avail to public. full/deluxe game features & content. Mac & Win  
+* **December 2025:** 1st playable (but unfinished, WIP) versions avail to invite-only playtesters/fans. Mac builds only (at first.)
 
 This plan may be revised as we go.
 
