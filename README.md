@@ -299,7 +299,7 @@ This game project's presences online:
 
 * [Reddit](https://www.reddit.com/user/Slartboz/)
 
-* [Itch.io](https://SynystronGames.itch.io/Slartboz/)
+* [Itch.io (ABANDONED)](https://SynystronGames.itch.io/Slartboz/)
 
 * [Tips & Donations (via CashApp)](https://cash.app/$mk2022akmar/)
 
